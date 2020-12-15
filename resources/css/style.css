@@ -1,0 +1,38 @@
+/* Universal */
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+}
+
+
+/* header*/
+header h1{
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* excursionVideo*/
+.downlaodLink{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+/* excursionGuide*/
+.excursionGuide h1, .phone h1{
+    font-weight: 300;
+    font-size: 42px;
+}
+.excursionGuide p{
+    font-size: 21px;
+    color: gray;
+}
+
+/* phone */
+.copyright {
+    text-align: right;
+    color: gray;
+}
